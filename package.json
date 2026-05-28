@@ -28,6 +28,7 @@
     "jose": "^6.1.3"
   },
   "devDependencies": {
+    "typescript": "^5.8.0",
     "vitest": "^3.2.4"
   },
   "publishConfig": {
@@ -35,7 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgentWorkforce/relay.git",
-    "directory": "packages/credential-proxy"
+    "url": "git+https://github.com/AgentWorkforce/credential-proxy.git"
   }
 }
